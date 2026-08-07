@@ -11,6 +11,6 @@ int main() {
 
 	example_function();
 	todo_move_me_out();
-	
+
 	return 0;
 }
