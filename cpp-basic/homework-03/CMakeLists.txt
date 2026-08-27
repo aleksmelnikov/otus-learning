@@ -21,3 +21,13 @@ add_executable(
 	argument
 	argument.cpp
 )
+
+add_executable(
+	guess_the_number
+	guess_the_number.cpp
+)
+
+add_executable(
+	guess_the_number-2
+	guess_the_number-2.cpp
+)
